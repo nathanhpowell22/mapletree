@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@nivo/tree": "^0.93.0",
+    "@nivo/treemap": "^0.93.0",
+    "openai": "^4.95.1"
+  }
+}
